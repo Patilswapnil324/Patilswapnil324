@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Patilswapnil324
 - 👀 I’m interested in data science 
-- 🌱 I’m currently learning data Analytics 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working as data Analyst 
+- 💞️ I’m looking to collaborate on analytics & AI firms 
 - 📫 How to reach me swapnilpatil3006@gmail.com
 
 <!---
